@@ -2,7 +2,7 @@
 //  ESCarouselView.swift
 //
 //  Created by lforxeverc on 16/3/15.
-//  Copyright © 2016年 jodo. All rights reserved.
+//  Copyright © 2016年 lforxeverc. All rights reserved.
 //
 
 import UIKit
